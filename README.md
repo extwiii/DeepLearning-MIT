@@ -4,13 +4,13 @@ Deep Learning for Self-Driving Cars - winter 2017
 This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car. It is open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application.
 
 ## Week1
-* Introduction to Deep Learning and Self-Driving Cars [video](https://www.youtube.com/watch?v=1L0TKZQcUtA&index=1&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+* Introduction to Deep Learning and Self-Driving Cars [ [video](https://www.youtube.com/watch?v=1L0TKZQcUtA&index=1&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)]
 
 ## Week2
 * Deep Reinforcement Learning for Motion Planning [ [video](https://www.youtube.com/watch?v=QDzM8r3WgBw&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) ]
 
 ## Week3
-* Convolutional Neural Networks for End-to-End Learning of the Driving Task 
+* Convolutional Neural Networks for End-to-End Learning of the Driving Task [[video](https://www.youtube.com/watch?v=U1toUkZw6VI&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)]
 
 ## Week4
 * Recurrent Neural Networks for Steering through Time 
