@@ -7,7 +7,7 @@ This class is an introduction to the practice of deep learning through the appli
 * Introduction to Deep Learning and Self-Driving Cars [video](https://www.youtube.com/watch?v=1L0TKZQcUtA&index=1&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 
 ## Week2
-* Deep Reinforcement Learning for Motion Planning
+* Deep Reinforcement Learning for Motion Planning [ [video](https://www.youtube.com/watch?v=QDzM8r3WgBw&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) ]
 
 ## Week3
 * Convolutional Neural Networks for End-to-End Learning of the Driving Task 
