@@ -1,4 +1,4 @@
-# DeepLearning-MIT
+# DeepLearning-MIT :white_check_mark:
 Deep Learning for Self-Driving Cars - winter 2017 [ [Course Website](http://cars.mit.edu) ]
 
 This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car. It is open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application.
